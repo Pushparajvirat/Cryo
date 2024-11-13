@@ -1,0 +1,39 @@
+{
+  "id": "dfe98b1d-1b7a-4423-b850-582ccf69f269",
+  "name": "Microsoft365",
+  "publisher": "Cryo",
+  "version": "1.0.0.2",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "6345e917-6ca0-4602-8e47-e43672ad66f0",
+      "name": "Cryo",
+      "publisher": "Cryo",
+      "version": "1.0.0.62"    
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 60100,
+      "to": 60149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
